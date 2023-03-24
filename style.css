@@ -1,0 +1,22 @@
+/*FF4B3E tomato*/
+/*582707 seal brown*/
+/*972D07 brown*/
+/*FFB20F selective yellow*/
+/*FFE548 maize*/
+body{
+    background-color: #FFE548;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+nav{
+    background-color: black;
+    height: 2rem;
+}
+
+img{
+    width: 50%;
+    border-radius: 100%;
+}
