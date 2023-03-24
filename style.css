@@ -25,6 +25,15 @@ img{
     border-radius: 100% ;
     box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
 }
+img:hover{
+    margin: 2rem 0rem 0rem 2rem;
+    width: 50rem;
+    border-radius: 100%;
+    width: 50rem ;
+    height: 50rem ;
+    border-radius: 100% ;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
 .image-container{
     text-align: center;
 }
